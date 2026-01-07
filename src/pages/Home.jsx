@@ -206,7 +206,7 @@ We focus on employee well-being, engagement, and continuous improvement.
               1
             </div>
             <div>
-              <h4 className="text-gray-600">Telecalling  Executive</h4>
+              <h4 className="text-gray-600">BDM business development manager</h4>
               <p className="text-sm text-gray-600">
                 Experience 1 to 5 year <br /> Fresher Can Apply
               </p>
@@ -218,12 +218,24 @@ We focus on employee well-being, engagement, and continuous improvement.
               2
             </div>
             <div>
-              <h4 className="text-gray-600">Website Developer</h4>
+              <h4 className="text-gray-600">Data Entry Operator</h4>
               <p className="text-sm text-gray-600">
                 Experience 1 to 5 year <br /> Fresher Can Apply
               </p>
             </div>
           </div>
+              <div className="flex gap-4 items-start pt-5">
+            <div className="bg-orange-500 text-white text-gray-600 w-10 h-10 flex items-center justify-center rounded">
+              3
+            </div>
+            <div>
+              <h4 className="text-gray-600">Digital marketer</h4>
+              <p className="text-sm text-gray-600">
+                Experience 1 to 5 year <br /> Fresher Can Apply
+              </p>
+            </div>
+          </div>
+          
         </div>
 
         {/* MIDDLE - Progress Bars */}
@@ -263,19 +275,19 @@ We focus on employee well-being, engagement, and continuous improvement.
 
       </div>
     </section>
-    <section className="w-full py-10 px-4">
-      {/* Heading */}
+    {/* <section className="w-full py-10 px-4">
+  
       <div className="max-w-5xl mx-auto">
         <h2 className="text-2xl text-gray-600 ">Our Clients</h2>
         <div className="w-32 h-[3px] bg-orange-500 mt-1"></div>
       </div>
 
-      {/* Logo Box */}
+    
       <div
         className="max-w-5xl mx-auto mt-6 border border-gray-300 bg-white 
                    rounded-md p-6 flex items-center justify-center flex-wrap gap-30"
       >
-        {/* Logos */}
+        
         <img
           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpw4vLCtSxvAtFo2TeYoo4aVtBmbXHeAk_7Q&s"
           alt="FlipKey"
@@ -301,7 +313,7 @@ We focus on employee well-being, engagement, and continuous improvement.
         />
       </div>
     </section>
-  
+   */}
     </div>
     
   )

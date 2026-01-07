@@ -18,7 +18,7 @@ function Founder() {
                  <div className="order-1 text-center lg:text-left">
      
                    {/* Heading Above Image */}
-                   <h2 className="text-2xl text-gray-600 ">Founder - Roger Brown</h2>
+                   <h2 className="text-2xl text-gray-600 ">Founder - Sourabh Singh</h2>
                    <div className="w-23 h-[2px] bg-orange-500 mt-1 mb-6 mx-auto lg:mx-0"></div>
      
                    <img
@@ -33,7 +33,7 @@ function Founder() {
                  <div className="order-2 text-gray-700">
      
                    <p className="text-lg mb-10">
-                    Roger rides his bike the way others do yoga — as a form of meditation. When the wind rushes past him and the world gets loud, that’s exactly when he finds his peace. He is a magician when it comes to using motion, speed, and the lens to slow everything down. Riding, camping and photography are more than hobbies for him.
+                    Sourabh Singh rides his bike the way others do yoga — as a form of meditation. When the wind rushes past him and the world gets loud, that’s exactly when he finds his peace. He is a magician when it comes to using motion, speed, and the lens to slow everything down. Riding, camping and photography are more than hobbies for him.
                    </p>
                    <p className='text-lg mb-10'>
                     It is how he processes the world and sees beauty in the chaos. He's got the heart of an adventurer and the soul of a saint — grounded, thoughtful, and always seeking. He is also a proud dog dad to two adorable pups who are basically his shadows. They bring out the softer side of a guy who already has a golden heart.
