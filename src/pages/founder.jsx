@@ -7,25 +7,25 @@ function Founder() {
     <div>
              
         <section className="px-4 md:px-8 pt-50">
-             <h1 className="mx-30 text-[2rem] font-bold text-gray-500">Founder</h1>
+             {/* <h1 className="mx-30 text-[2rem] font-bold text-gray-500">Founder - Sourabh Singh</h1> */}
      
-             <div className="container mx-auto max-w-7xl pt-1 pb-21">
+             <div className="container mx-auto max-w-6xl pt-1 pb-21">
      
                {/* GRID → IMAGE LEFT + CONTENT RIGHT */}
-               <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+               <div className="grid grid-cols-1 lg:grid-cols-2 gap-1 items-center">
      
                  {/* LEFT SIDE — HEADING + IMAGE */}
                  <div className="order-1 text-center lg:text-left">
      
                    {/* Heading Above Image */}
-                   <h2 className="text-2xl text-gray-600 ">Founder - Sourabh Singh</h2>
+                   <h2 className="text-3xl text-gray-600 ">Founder - Sourabh Singh</h2>
                    <div className="w-23 h-[2px] bg-orange-500 mt-1 mb-6 mx-auto lg:mx-0"></div>
      
                    <img
                      loading="lazy"
                      src={founderImage}
                      alt="Founder"
-                     className="w-full max-w-[400px] h-auto rounded-lg shadow-xl object-cover mx-auto lg:mx-0"
+                     className="w-full max-w-[500px] h-auto rounded-lg shadow-xl object-cover mx-auto lg:mx-0"
                    />
                  </div>
      

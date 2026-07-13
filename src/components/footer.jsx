@@ -19,9 +19,8 @@ export default function Footer() {
             <h3 className="text-xl font-semibold">Contact Us</h3>
             <div className="w-20 h-[2px] bg-orange-500 mt-2 mb-4"></div>
 
-            <p>34990 Emerald Coast Pkwy, Suite 300,
-Destin, FL 32541</p>
-            <p>Phone: +1 786 224 2351</p>
+            <p>E48/4, Okhla phase 2, Ind. Area New Delhi-110020</p>
+            <p>Phone: +91 8750059005</p>
             <p className="mt-2">
               E-mail:{" "}<a href="mailto:contact@technologistesolutions.com" className="text-orange-400 hover:underline ">
                contact@technologistesolutions.com

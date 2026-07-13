@@ -24,7 +24,9 @@ function Home() {
       title: "24/7 Customer Support & Back Office Solutions",
       desc: "We help businesses deliver exceptional customer experiences with reliable customer support and efficient back-office operations.From live chat and email support to data management and process handling, we ensure accuracy, speed, and satisfaction."
     }
+
   ];
+  
     const skills = [
     { label: "Great Knowledge of Marketing Industry", value: 90 },
     { label: "Excellent Understanding of the Business", value: 85 },
@@ -206,9 +208,9 @@ We focus on employee well-being, engagement, and continuous improvement.
               1
             </div>
             <div>
-              <h4 className="text-gray-600">BDM business development manager</h4>
+              <h4 className="text-gray-600">BDM Business Development Manager</h4>
               <p className="text-sm text-gray-600">
-                Experience 1 to 5 year <br /> Fresher Can Apply
+                Experience 1 to 2 year <br /> Fresher Can Apply
               </p>
             </div>
           </div>
@@ -220,7 +222,7 @@ We focus on employee well-being, engagement, and continuous improvement.
             <div>
               <h4 className="text-gray-600">Data Entry Operator</h4>
               <p className="text-sm text-gray-600">
-                Experience 1 to 5 year <br /> Fresher Can Apply
+                Experience 1 to 2 year <br /> Fresher Can Apply
               </p>
             </div>
           </div>
@@ -229,9 +231,9 @@ We focus on employee well-being, engagement, and continuous improvement.
               3
             </div>
             <div>
-              <h4 className="text-gray-600">Digital marketer</h4>
+              <h4 className="text-gray-600">Digital Marketer</h4>
               <p className="text-sm text-gray-600">
-                Experience 1 to 5 year <br /> Fresher Can Apply
+                Experience 1 to 5inde year <br /> Fresher Can Apply
               </p>
             </div>
           </div>

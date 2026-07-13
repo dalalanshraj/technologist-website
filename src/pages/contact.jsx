@@ -143,11 +143,11 @@ function Contact() {
 
             <p className="text-gray-700 leading-relaxed">
               <strong>Technologist E-Solutions</strong> <br />
-              34990 Emerald Coast Pkwy, Suite 300, Destin, FL 32541
+               E48/4, Okhla phase 2, Ind. Area New Delhi-110020
             </p>
 
             <p className="text-gray-700">
-              <strong>Phone:</strong> +1 786 224 2351
+              <strong>Phone:</strong> +91 8750059005
             </p>
 
             <p className="text-gray-700">
